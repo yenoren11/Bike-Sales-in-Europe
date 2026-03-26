@@ -46,7 +46,7 @@ The project follows a structured data science workflow:
 Key Insights
 * **Overall Performance:** Total revenue is **95M** with total profit **42M** and a **44.26%** profit margin.
 * **Category Mix (Revenue & Profit):** **Bikes** dominate both revenue and profit, followed by **Accessories**, while **Clothing** contributes the least.
-* **Top Products by Revenue:** Sales are led by **Road-150 Red** (highest at ~**4.2M**), with **Mountain-200 Black** (~**3.7M**) and **Mountain-200 Silver** (~**3.4M**) as the next strongest performers.
+* **Top Products by Revenue:** Sales are led by **Road-150 Red** (highest at **4.2M**), with **Mountain-200 Black** (**3.7M**) and **Mountain-200 Silver** (**3.4M**) as the next strongest performers.
 * **Customer Segmentation:** Revenue is nearly evenly split by gender (**Male 50.81%** vs **Female 49.19%**). By age, **Seniors (64+)** are the top revenue segment (followed by **Adults (35-64)**).
 * **Top Markets & Profit Margin:** The **United States** and **Australia** lead in both revenue and profit. However, **Canada** shows the strongest profit margin (mid-40% range), indicating better efficiency despite smaller scale.
 
